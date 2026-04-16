@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//home/saif/shilpokart/shilpokart-platform/**)",
+      "Bash(npm create *)",
+      "Read(//tmp/**)",
+      "Bash(cp -r /tmp/shilpokart-tmp/* /tmp/shilpokart-tmp/.gitignore /home/saif/shilpokart/shilpokart-landing/)",
+      "Bash(rm -rf /tmp/shilpokart-tmp)",
+      "Bash(cp /home/saif/shilpokart/shilpokart-platform/apps/web/public/logo-horizontal.svg /home/saif/shilpokart/shilpokart-landing/public/)",
+      "Bash(cp /home/saif/shilpokart/shilpokart-platform/apps/web/public/logo-icon.svg /home/saif/shilpokart/shilpokart-landing/public/)",
+      "Bash(cp /home/saif/shilpokart/shilpokart-platform/apps/web/public/favicon.svg /home/saif/shilpokart/shilpokart-landing/public/)",
+      "Bash(npm run *)"
+    ]
+  }
+}

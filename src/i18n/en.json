@@ -1,0 +1,100 @@
+{
+  "brand": "Shilpokart",
+  "tagline": "Bangladesh's Trusted Hardware Wholesale Marketplace",
+  "hero": {
+    "headline": "Bangladesh's Trusted Hardware Wholesale Marketplace",
+    "subtitle": "Buy hardware products at the best wholesale prices from verified sellers. Transparent pricing, easy ordering, secure transactions.",
+    "ctaTrader": "Join as a Trader",
+    "ctaSeller": "Join as a Seller"
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "langToggle": "বাং",
+  "features": {
+    "title": "Why Shilpokart?",
+    "verified": {
+      "title": "Verified Sellers",
+      "desc": "Every seller is verified by us. Ensure seller trustworthiness through KYC and trade license verification."
+    },
+    "pricing": {
+      "title": "Transparent Pricing",
+      "desc": "All wholesale prices are displayed clearly. No hidden costs. See tiered pricing based on quantity."
+    },
+    "easy": {
+      "title": "Easy Ordering",
+      "desc": "Order easily from your mobile. Browse products, compare, and place orders in just a few steps."
+    },
+    "secure": {
+      "title": "Secure Transactions",
+      "desc": "Your payments are protected. Enjoy Cash on Delivery and digital payment options with complete security."
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Get started in 3 simple steps",
+    "step1": {
+      "title": "Register",
+      "desc": "Quickly create an account using your mobile number with OTP verification."
+    },
+    "step2": {
+      "title": "Browse Products",
+      "desc": "Browse by category, compare prices, and find the best sellers."
+    },
+    "step3": {
+      "title": "Place Order",
+      "desc": "Order at wholesale prices and get delivery directly to your shop."
+    }
+  },
+  "testimonials": {
+    "title": "What Traders & Sellers Say",
+    "items": [
+      {
+        "quote": "Since using Shilpokart, my supplier base has grown and I get much better prices. What used to take hours now takes moments.",
+        "name": "Rahim Ahmed",
+        "role": "Trader, Bogra",
+        "rating": 5
+      },
+      {
+        "quote": "I now have over 50 regular buyers on Shilpokart. I receive payments on time, and managing orders has become much easier.",
+        "name": "Karim Hossain",
+        "role": "Seller, Dhaka",
+        "rating": 5
+      },
+      {
+        "quote": "The best thing is price transparency. I can see wholesale prices directly and make decisions. No need for bargaining.",
+        "name": "Saiful Islam",
+        "role": "Trader, Chattogram",
+        "rating": 5
+      }
+    ],
+    "badges": {
+      "verified": "Verified Sellers",
+      "kyc": "KYC Verified",
+      "secure": "Secure Payments"
+    }
+  },
+  "cta": {
+    "title": "Start Today",
+    "subtitle": "Join Bangladesh's most trusted hardware wholesale marketplace",
+    "trader": "Get Started as a Trader",
+    "seller": "Get Started as a Seller"
+  },
+  "footer": {
+    "description": "Bangladesh's trusted hardware wholesale marketplace. Buy quality hardware products at the best prices from verified sellers.",
+    "quickLinks": "Quick Links",
+    "about": "About Us",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "categories": "Categories",
+    "electrical": "Electrical",
+    "plumbing": "Plumbing",
+    "tools": "Tools",
+    "building": "Building Materials",
+    "copyright": "© 2025 Shilpokart. All rights reserved."
+  }
+}

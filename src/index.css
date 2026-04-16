@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", "Noto Sans Bengali", system-ui, -apple-system, sans-serif;
+  --font-bengali: "Noto Sans Bengali", sans-serif;
+  --color-brand: #3366FF;
+  --color-brand-dark: #1E40AF;
+  --color-brand-light: #EBF0FF;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
